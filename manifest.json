@@ -1,0 +1,193 @@
+{
+"name":"News Progressive Web App",
+"short_name":"01PWA",
+"scope":".",
+"display":"standalone",
+"background_color":"#fff",
+"theme_color":"#3F51B5",
+"description":"A project of PWA",
+"dir":"ltr",
+"lang":"en-US",
+"start_url":"index.html",
+"orientation":"portrait-primary",
+"icons":
+[
+
+    {
+        "src":"images/appicons/48.png",
+        "type":"image/png",
+        "sizes":"48x48"
+    },
+
+    {
+        "src":"images/appicons/50.png",
+        "type":"image/png",
+        "sizes":"50x50"
+    },
+
+    {
+        "src":"images/appicons/55.png",
+        "type":"image/png",
+        "sizes":"55x55"
+    },
+
+    {
+        "src":"images/appicons/57.png",
+        "type":"images/png",
+        "sizes":"57x57"
+    },
+
+    {
+        "src":"images/appicons/58.png",
+        "type":"image/png",
+        "sizes":"58x58"
+    },
+
+    {
+        "src":"images/appicons/60.png",
+        "type":"image/png",
+        "sizes":"60x60"
+    },
+
+    {
+        "src":"images/appicons/64.png",
+        "type":"image/png",
+        "sizes":"64x64"
+    },
+
+
+    {
+        "src":"images/appicons/72.png",
+        "type":"image/png",
+        "sizes":"72x72"
+    },
+
+
+    {
+        "src":"images/appicons/76.png",
+        "type":"image/png",
+        "sizes":"76x76"
+    },
+
+    {
+        "src":"images/appicons/80.png",
+        "type":"image/png",
+        "sizes":"80x80"
+    },
+
+
+    {
+        "src":"images/appicons/87.png",
+        "type":"image/png",
+        "sizes":"87x87"
+    },
+
+
+    {
+        "src":"images/appicons/88.png",
+        "type":"image/png",
+        "sizes":"88x88"
+    },
+
+
+    {
+        "src":"images/appicons/100.png",
+        "type":"image/png",
+        "sizes":"100x100"
+    },
+
+
+    {
+        "src":"images/appicons/114.png",
+        "type":"image/png",
+        "sizes":"114x114"
+    },
+
+
+    {
+        "src":"images/appicons/120.png",
+        "type":"image/png",
+        "sizes":"120x120"
+    },
+
+
+    {
+        "src":"images/appicons/128.png",
+        "type":"image/png",
+        "sizes":"128x128"
+    },
+
+
+    {
+        "src":"images/appicons/144.png",
+        "type":"image/png",
+        "sizes":"144x144"
+    },
+
+
+    {
+        "src":"images/appicons/152.png",
+        "type":"image/png",
+        "sizes":"152x152"
+    },
+
+
+    {
+        "src":"images/appicons/167.png",
+        "type":"image/png",
+        "sizes":"167x167"
+    },
+
+
+    {
+        "src":"images/appicons/172.png",
+        "type":"image/png",
+        "sizes":"172x172"
+    },
+
+
+    {
+        "src":"images/appicons/180.png",
+        "type":"image/png",
+        "sizes":"180x180"
+    },
+
+
+    {
+        "src":"images/appicons/196.png",
+        "type":"image/png",
+        "sizes":"196x196"
+    },
+
+
+    {
+        "src":"images/appicons/216.png",
+        "type":"image/png",
+        "sizes":"216x216"
+    },
+
+
+    {
+        "src":"images/appicons/256.png",
+        "type":"image/png",
+        "sizes":"256x256"
+    },
+
+
+    {
+        "src":"images/appicons/512.png",
+        "type":"image/png",
+        "sizes":"512x512"
+    },
+
+
+    {
+        "src":"images/appicons/1024.png",
+        "type":"image/png",
+        "sizes":"1024x1024"
+    }
+
+]
+
+
+}

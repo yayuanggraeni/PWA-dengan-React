@@ -1,0 +1,18 @@
+{
+  "name": "pwa",
+  "version": "1.0.0",
+  "description": "PWA in the making",
+  "main": "index.html",
+  "scripts": {
+    "start": "http-server -c-1 -p 3000"
+  },
+  "keywords": [
+    "PWA",
+    "Making"
+  ],
+  "author": "Fahd",
+  "license": "ISC",
+  "devDependencies": {
+    "http-server": "0.12.1"
+  }
+}

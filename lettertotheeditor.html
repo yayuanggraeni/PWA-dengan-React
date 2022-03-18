@@ -1,0 +1,100 @@
+<html>
+    <title>
+        Letter to the Editor
+    </title>
+
+    <body>
+
+        <h1>
+            Letter to the Editor
+        </h1>
+
+        <form id="myForm">
+
+        <div>
+            Subject / Title *
+            <br>
+            <input type="text" maxlength="15" name="nm_subject">    
+            <br>
+        </div>
+        <br>
+
+        <div>
+            Letter / Body (Do Not Exceed 200 Words).*<br>
+            <textarea spellcheck="true" rows="10" cols="50" tabindex="0"  placeholder="" required="" name="nm_letterbody" ></textarea>
+        </div>
+        
+        <br>
+
+        <div>
+            Personal Data   <br>
+        </div>
+
+        <div>
+            Name * <br>
+            <input type="text" maxlength="15" name="nm_idname">
+        </div>
+
+        <div>
+            Street Address * <br>
+            <input type="text" maxlength="15" name="nm_idaddress">
+            
+        </div>
+
+        <div>
+            City * <br>
+            <input type="text" maxlength="15" name="nm_idcity">
+        </div>
+
+        <div>
+            State * <br>
+            <input type="text" maxlength="15" name="nm_idstate">    
+        </div>
+
+        <div>
+            Email * <br>
+            <input type="text" maxlength="15" name="nm_idemail">
+        </div>
+        <!-- myfunction app.js may hai -->
+        <button onclick="myFunction();">Send to PWA editor</button>
+        <!-- <button onclick="deleteserviceworker();">Delete the Service Worker</button>
+        <button onclick="">when app is offline it should give trust to user your offlnie</button> -->
+
+    </form>
+       
+    </body>
+
+
+
+
+
+    <script src="/idb.js"></script>
+    <script src="/app.js"></script>
+    <script>
+// function myFunction() {
+//   var x = document.getElementById("myForm").elements[0].value;
+//   var y = document.getElementById("myForm").elements[1].value;
+//   alert(y);
+// }
+    </script>
+
+
+<script>
+
+// navigator.serviceWorker.ready.then(function(registration) { 
+
+// registration.sync 
+
+//   .register("send-messages") 
+
+//   .then(function() { return registration.sync.getTags(); }) 
+
+//   .then(function(tags) { 
+
+//     console.log(tags); 
+
+//   }); 
+
+// }); 
+    </script>
+</html>
